@@ -1,0 +1,12 @@
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/bin/Debug/netstandard2.0/EscutaSlider.deps.json
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/bin/Debug/netstandard2.0/EscutaSlider.dll
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/bin/Debug/netstandard2.0/EscutaSlider.pdb
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/EscutaSlider.csprojAssemblyReference.cache
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/EscutaSlider.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/EscutaSlider.AssemblyInfoInputs.cache
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/EscutaSlider.AssemblyInfo.cs
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/EscutaSlider.dll
+/Users/aluno/Projects/EscutaSlider/EscutaSlider/obj/Debug/netstandard2.0/EscutaSlider.pdb

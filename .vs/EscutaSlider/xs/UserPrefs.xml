@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B001D489-8013-4483-9DF5-450E5177A878}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EscutaSlider/MainPage.xaml">
+    <Files>
+      <File FileName="EscutaSlider/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="EscutaSlider/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EscutaSlider.Android FirstBuild="True" PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.ItemProperties.EscutaSlider.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EscutaSlider FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
